@@ -1,12 +1,20 @@
-asdasdas
-hgfhgjj
-
-sdfasdjnfkajsdbflkjabsdkjbasdkjaskndjnkasjdfakdfnaskdjnkasdnbzvz
-dfgdsfgsdfsd
-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
-chgd
-dhdfgdfvgafadasdcasdmnjhbjhbhjbhutydtes
-hgvkgvuhblb;ihbikjn;kjn
-hjjh
-dgsdfgsdfsfsdfgsdfsdfsgdgshsfgsfgsf
-sdfvasdasafasd
+anged, 1 insertion(+), 1 deletion(-)
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 373 bytes | 373.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/nabad600/testing.git
+   fd67230..b7749d7  automation -> automation
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 17249  100 17159  100    90   7841     41  0:00:02  0:00:02 --:--:--  7897
+ok%                                                                                                                                                
+naba@Nabas-MacBook-Air testing % sh automation.sh
+Branch is currect
+automation
+Added renewed SSL certs
+[automation 36c71b3] Added renewed SSL certs
+ 1 file changed, 1 insert
